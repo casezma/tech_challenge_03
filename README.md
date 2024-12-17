@@ -16,3 +16,8 @@ Nesse caso, este modelo será utilizado para verificar a aceleração/desacelera
 Para a captura dos dados, foi utilizada a biblioteca "odb", que permite capturar dados veiculares através
 de ELM327.
 
+Video:
+
+https://www.youtube.com/watch?v=IPuMo5-rObA
+
+
